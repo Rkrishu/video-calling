@@ -15,3 +15,6 @@ This repository contains the source code for `VideoCall-WebApp`, a cutting-edge 
 
 - Frontend: HTML, CSS, JS, WebRTC for real-time communication
 - Hosting: Deployed using Docker and Kubernetes for scalability
+
+# OUTPUT:
+![image](https://github.com/Rkrishu/video-calling/assets/89185861/0d610494-00c5-4b65-a987-f8f309ff4647)
